@@ -1,0 +1,6 @@
+import{usesState}from"react";
+functionApp(){
+  const[price,setPrice]=usesState(500);
+  const[quantity,setQuantity]=usesState(1);
+  consttotal
+}
